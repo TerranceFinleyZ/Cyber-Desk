@@ -1,6 +1,6 @@
 Built in vite.js
 
-https://cyberdesk.netlify.app
+https://cyber-desk.netlify.app/
 
 ![Screenshot (84)](https://github.com/user-attachments/assets/c73053d0-d3df-4780-a990-61ed71b56b16)
 ![Screenshot (85)](https://github.com/user-attachments/assets/73259e5f-bb00-4f40-8b38-e2039f6c7fb6)
